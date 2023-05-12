@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711517460831",
+    "project_id": "mcqproject-d82d1",
+    "storage_bucket": "mcqproject-d82d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711517460831:android:364cfa353693349d353eea",
+        "android_client_info": {
+          "package_name": "com.mcqproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711517460831-d20drmi91ofv0138u7thshh3m4v4tlr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAors-LwlXVIl_Yn3PUys62QNiDBXUdwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711517460831-d20drmi91ofv0138u7thshh3m4v4tlr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,146 @@
+[
+    {
+        "Question": "What is JavaScript?",
+        "Options": [
+            {
+                "Option": "JavaScript is a scripting language used to make the website interactive"
+            },
+            {
+                "Option": "JavaScript is an assembly language used to make the website interactive"
+            },
+            {
+                "Option": "JavaScript is an assembly language used to make the website interactive"
+            },
+            {
+                "Option": "None of the mentioned"
+            }
+        ],
+        "answer": "None of the mentioned"
+    },
+    {
+        "Question": "Which of the following is correct about JavaScript?",
+        "Options": [
+            {
+                "Option": "JavaScript is an Object-Based language"
+            },
+            {
+                "Option": "JavaScript is Assembly-language"
+            },
+            {
+                "Option": "JavaScript is Assembly-language"
+            },
+            {
+                "Option": "JavaScript is a High-level language"
+            }
+        ],
+        "answer": "JavaScript is Assembly-language"
+    },
+    {
+        "Question": "Among the given statements, which statement defines closures in JavaScript?",
+        "Options": [
+            {
+                "Option": "JavaScript is a function that is enclosed with references to its inner function scope1"
+            },
+            {
+                "Option": "JavaScript is a function that is enclosed with references to its lexical environment"
+            },
+            {
+                "Option": "JavaScript is a function that is enclosed with the object to its inner function scope"
+            },
+            {
+                "Option": "None of the mentioned"
+            }
+        ],
+        "answer": "JavaScript is a function that is enclosed with references to its inner function scope1"
+    },
+    {
+        "Question": "Arrays in JavaScript are defined by which of the following statements?",
+        "Options": [
+            {
+                "Option": "It is an ordered list of values"
+            },
+            {
+                "Option": "It is an ordered list of objects"
+            },
+            {
+                "Option": "It is an ordered list of string"
+            },
+            {
+                "Option": "It is an ordered list of functions"
+            }
+        ],
+        "answer": "It is an ordered list of string"
+    },
+    {
+        "Question": "Which of the following is not javascript data types?",
+        "Options": [
+            {
+                "Option": "Null type"
+            },
+            {
+                "Option": "Undefined type"
+            },
+            {
+                "Option": "Number type"
+            },
+            {
+                "Option": "All of the mentioned"
+            }
+        ],
+        "answer": "Null type"
+    },
+    {
+        "Question": "Which of the following is not javascript data types?",
+        "Options": [
+            {
+                "Option": "Null type"
+            },
+            {
+                "Option": "Undefined type"
+            },
+            {
+                "Option": "Number type"
+            },
+            {
+                "Option": "All of the mentioned"
+            }
+        ],
+        "answer": "Undefined type"
+    },
+    {
+        "Question": "Which of the following is not javascript data types?",
+        "Options": [
+            {
+                "Option": "Null type"
+            },
+            {
+                "Option": "Undefined type"
+            },
+            {
+                "Option": "Number type"
+            },
+            {
+                "Option": "All of the mentioned"
+            }
+        ],
+        "answer": "Number type"
+    },
+    {
+        "Question": "What is JavaScript?",
+        "Options": [
+            {
+                "Option": "JavaScript is a scripting language used to make the website interactive"
+            },
+            {
+                "Option": "JavaScript is an assembly language used to make the website interactive"
+            },
+            {
+                "Option": "JavaScript is a compiled language used to make the website interactive"
+            },
+            {
+                "Option": "None of the mentioned"
+            }
+        ],
+        "answer": "JavaScript is a compiled language used to make the website interactive"
+    }
+]

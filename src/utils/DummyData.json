@@ -1,0 +1,43 @@
+[
+  {
+    "subjectName": "English",
+    "testId": "Test-1"
+  },
+  {
+    "subjectName": "Hindi",
+    "testId": "Test-2"
+  },
+  {
+    "subjectName": "Mathematics",
+    "testId": "Test-3"
+  },
+  {
+    "subjectName": "Science",
+    "testId": "Test-4"
+  },
+  {
+    "subjectName": "Social Science",
+    "testId": "Test-5"
+  },
+  {
+    "subjectName": "Economics",
+    "testId": "Test-6"
+  },
+  {
+    "subjectName": "Compiler Design",
+    "testId": "Test-7"
+  },
+  {
+    "subjectName": "Operation System",
+    "testId": "Test-8"
+  },
+  {
+    "subjectName": "Programming in C language",
+    "testId": "Test-9"
+  },
+  {
+    "subjectName": "Object Oriented Programming  with C++",
+    "testId": "Test-10"
+  }
+ 
+]
